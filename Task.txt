@@ -1,0 +1,7 @@
+Convert Hours to Seconds
+
+Write a function that converts hours into seconds.
+1 hour = 60 minutes
+1 minute = 60 seconds
+
+Formula = (N hour * 60 minutes) * 60 seconds
